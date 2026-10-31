@@ -1,0 +1,7 @@
+laureates.json
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+.idea/
+.vscode/
